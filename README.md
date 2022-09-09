@@ -8,5 +8,10 @@ For this homework I switched many non-semantic tags and turned them into the cor
 
 <a href="https://ivabon.github.io/01-code-refactor">link to website </a>
 
+## Screenshot 
+
+![Screenshot of website](../../../Downloads/ivabon.github.io_01-code-refactor_%20(1).png)
+
+
 
 
