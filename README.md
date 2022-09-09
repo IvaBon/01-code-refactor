@@ -10,8 +10,7 @@ For this homework I switched many non-semantic tags and turned them into the cor
 
 ## Screenshot 
 
-![Screenshot of website](../../../Downloads/ivabon.github.io_01-code-refactor_%20(1).png)
-
+![Screenshot of website](assets/images/ivabon.github.io_01-code-refactor_%20(1).png)
 
 
 
